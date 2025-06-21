@@ -9,7 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/s3thtjp/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/s3thtjp/azure-network-protocols)
-
+- <b>Serverless Data Pipeline</b>
+  - [Serverless Data Pipeline](https://github.com/s3thtjp/serverless-data-pipeline)
 <h2>🤳Connect with me:</h2>
 
 
