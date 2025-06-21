@@ -12,7 +12,7 @@
 - <b>Serverless Data Pipeline</b>
   - [Serverless Data Pipeline](https://github.com/s3thtjp/serverless-data-pipeline)
 - <b>AWS Static Website</b>
-  - [AWS Static Website](https://github.com/s3thtjp/aws-portfolio-website)
+  - [AWS Static Portfolio Website](https://github.com/s3thtjp/aws-portfolio-website)
 
 <h2>🤳Connect with me:</h2>
 
